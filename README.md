@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# Card Stacking
 
-Author: (TODO: your name)
+Author: Aren Davey
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: Carefully balance falling cards to stack as much as you can to obtain the highest score possible.
 
 Screen Shot:
 
@@ -10,7 +10,7 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+AD to move the block, WS to rotate. 
 
 ## Extra Credit
 
